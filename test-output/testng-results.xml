@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="203981" started-at="2019-09-04T07:43:41Z" finished-at="2019-09-04T07:47:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="203981" started-at="2019-09-04T07:43:41Z" finished-at="2019-09-04T07:47:05Z">
+      <class name="gitTest.GitTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:gitTest.GitTest@47f37ef1]" name="loginTest" duration-ms="195934" started-at="2019-09-04T13:13:42Z" finished-at="2019-09-04T13:16:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- gitTest.GitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
